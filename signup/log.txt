@@ -1,0 +1,12 @@
+Sep 28 16:07:56 root[1399]: Trying to smtpdm.aliyun.com:25
+Sep 28 16:07:56 root[1399]: Connected to relay host smtpdm.aliyun.com
+Sep 28 16:07:56 root[1399]: Error: Remote host returned "535 Authentication failure[0] [@ud010301]"
+Sep 28 16:07:56 root[1399]: Error: Error occurred while sending HELO command.
+Sep 28 16:07:56 root[1399]: Error: Cannot send email to <yiwangchunyu@163.com>
+Sep 28 16:07:56 root[1399]: Disconnected from remote host
+Sep 28 21:27:22 root[1400]: Trying to smtpdm.aliyun.com:25
+Sep 28 21:27:23 root[1400]: Connected to relay host smtpdm.aliyun.com
+Sep 28 21:27:23 root[1400]: Error: Remote host returned "535 Authentication failure[0] [@ud010301]"
+Sep 28 21:27:23 root[1400]: Error: Error occurred while sending HELO command.
+Sep 28 21:27:23 root[1400]: Error: Cannot send email to <yiwangchunyu@163.com>
+Sep 28 21:27:23 root[1400]: Disconnected from remote host
